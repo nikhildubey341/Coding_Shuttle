@@ -36,8 +36,7 @@ public class array1 {
                 second_min = number;
             }
         }
-
-        System.out.println(second_min);
+                System.out.println(second_min);
 
 
 
